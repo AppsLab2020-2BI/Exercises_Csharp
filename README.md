@@ -109,27 +109,19 @@ Advanced:
 
 
 
-
-
 #  
 # OOP exercisess:
-
-
 <br/>
-* [Open-Lab-10.00] (30 XP)
- 
-Úvodne cvičenie na vytvorenie si GitHub repozitára.
-
+**Open-Lab-10.00** (30 XP)
+*Úvodne cvičenie na vytvorenie si GitHub repozitára.*
 1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-10.00".
 2. Doinštalujte a nastavte si vo Visual Studio GitHub Extension.
 3. Uploadnite svoj projekt na GitHub - vytvorte repozitár a push-nite projekt.
 4. Synchronizujte a upravujte projekt toľkokrát, aby posledný Commit ukazoval len zmenu textu v Console.WriteLine() v Main().
 5. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 <br/>
-* [Open-Lab-10.01] (20 XP)
- 
-Vytvorenie si vlastnej triedy a objektu z nej.
-
+**Open-Lab-10.01** (20 XP)
+*Vytvorenie si vlastnej triedy a objektu z nej.*
 1. Upravte posledné cvičenie "Open-Lab-10.00" tak, že ho rozšírite o nasledujúce veci.
 2. V projekte vytvorte vlastnú triedu ku predgenerovanej triede Program v Program.cs, ktorá sa bude volať "Book".
 3. V triede Book vytvorte dve premenné / atribúty / dátové objekty / fieldy: "string title" bude verejná a "int pages" bude súkromná.
@@ -137,9 +129,9 @@ Vytvorenie si vlastnej triedy a objektu z nej.
 5. Pomocou Console.WriteLine() vypíšte všetky dostupné premenné z objektu LOTR.
 6. Synchronizujte projekt tak, aby posledný Commit ukazoval len zmenu v súbore Program.cs.
 7. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
-* [Open-Lab-10.02] (20 XP)
-Volanie metód a nastavenie prístupu (zapúzdrenie).
+<br/>
+**Open-Lab-10.02** (20 XP)
+*Volanie metód a nastavenie prístupu (zapúzdrenie).*
 1. Upravte posledné cvičenie "Open-Lab-10.01" tak, že ho rozšírite o nasledujúce veci.
 2. Upravte triedu Book tak, aby všetky premenné boli privátne.
 3. Doplňte premenné triedy o "category", "author", "releaseDate".
@@ -149,9 +141,9 @@ Volanie metód a nastavenie prístupu (zapúzdrenie).
 7. Z objektu zavolajte metódu pre výpis údajov.
 8. Synchronizujte projekt tak, aby posledný Commit ukazoval len zmenu v súbore Program.cs.
 9. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
-* [Open-Lab-10.03] (20 XP)
-Práca s vlastnosťami (properties).
+<br/>
+**Open-Lab-10.03** (20 XP)
+*Práca s vlastnosťami (properties).*
 1. Upravte posledné cvičenie "Open-Lab-10.02" tak, že ho rozšírite o nasledujúce veci.
 2. Upravte triedu Book tak, aby ste pre všetky premenné vytvorili verejné vlastnosti (properties) pre čítanie i zápis.
 3. Vlastnosť "ReleaseDate" nastavte tak, aby nastavila premennú na "-1", pokiaľ sa zadá hodnota mimo rozsah (1450-2021).
@@ -160,9 +152,9 @@ Práca s vlastnosťami (properties).
 6. Vypíšte na obrazovku údaje všetkých premenných z objektu pomocou vlastností, nie metódy.
 7. Synchronizujte projekt tak, aby posledný Commit ukazoval len zmenu v súbore Program.cs.
 8. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
-* [Open-Lab-10.04] (19 XP)
-Práca s konštruktorom a preťaženie metód.
+<br/>
+**Open-Lab-10.04** (19 XP)
+*Práca s konštruktorom a preťaženie metód.*
 1. Upravte posledné cvičenie "Open-Lab-10.03" tak, že ho rozšírite o nasledujúce veci.
 2. Upravte triedu Book tak, že ju rozšírite o tri konštruktory.
 3. Prvý konštruktor bude bezparametrický a nastaví všetky premenné na hodnotu -1 (texty i čísla).
@@ -172,9 +164,9 @@ Práca s konštruktorom a preťaženie metód.
 7. Z týchto objektov zavolajte metódy na vypisovanie údajov premenných.
 8. Synchronizujte projekt tak, aby posledný Commit ukazoval len zmenu v súbore Program.cs.
 9. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
-* [Open-Lab-10.05] (19 XP)
-Práca so statickým modifikátorom.
+<br/>
+**Open-Lab-10.05** (19 XP)
+*Práca so statickým modifikátorom.*
 1. Upravte posledné cvičenie "Open-Lab-10.04" tak, že ho rozšírite o nasledujúce veci.
 2. Upravte triedu Book tak, že ju rozšírite o verejný statický list stringov s názvom "categoryList";
 3. Tento list inicializujte položkami "detské", "romantické", "náučné", "sci-fi", "dobrodružné".
@@ -183,9 +175,9 @@ Práca so statickým modifikátorom.
 6. Upravte Main() tak, že ešte pred zavolaním metódy na vypisovanie údajov premenných, nastavíte v objekte HOBIT položku category priradením údaju z categoryList.
 7. Synchronizujte projekt tak, aby posledný Commit ukazoval len zmenu v súbore Program.cs.
 8. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
-* [Open-Lab-11.00] (35 XP)
-Využitie dedičnosti.
+<br/>
+**Open-Lab-11.00** (35 XP)
+*Využitie dedičnosti.*
 1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-11.00".
 2. Uploadnite ho na GitHub do príslušného repozitára.
 3. V projekte vytvorte dva nové súbory (typu class - prípona .cs) a nazvite ich "Book" a "Library".
@@ -196,5 +188,5 @@ Využitie dedičnosti.
 8. V metóde Main() vytvorte objekt "schoolLibrary" z triedy Library. V ňom vytvorte dvoch študentov "John" a "Poul", ktorý budú mať každý po dve učebnice. Zmysluplne vyplňte všetky premenné.
 9. Z objektu schoolLibrary zavolajte metódu na vypísanie všetkých premenných.
 10. Synchronizujte projekt s GitHub a pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
+<br/>
 
