@@ -109,10 +109,17 @@ Advanced:
 
 
 
-# OOP:
+
+
+
+# OOP exercisess:
+
+
 
 * [Open-Lab-10.00] (30 XP)
-Úvodne cvičenie na vytvorenie si GitHub repozitára.
+
+*Úvodne cvičenie na vytvorenie si GitHub repozitára.
+
 1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-10.00".
 2. Doinštalujte a nastavte si vo Visual Studio GitHub Extension.
 3. Uploadnite svoj projekt na GitHub - vytvorte repozitár a push-nite projekt.
