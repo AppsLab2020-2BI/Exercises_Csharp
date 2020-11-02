@@ -111,14 +111,14 @@ Advanced:
 
 
 
-
+#  
 # OOP exercisess:
 
 
 
 * [Open-Lab-10.00] (30 XP)
-
-*Úvodne cvičenie na vytvorenie si GitHub repozitára.
+ 
+Úvodne cvičenie na vytvorenie si GitHub repozitára.
 
 1. Vytvorte vo Visual Studio nový konzolový C# projekt a nazvite ho "Open-Lab-10.00".
 2. Doinštalujte a nastavte si vo Visual Studio GitHub Extension.
@@ -127,7 +127,9 @@ Advanced:
 5. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
 
 * [Open-Lab-10.01] (20 XP)
+ 
 Vytvorenie si vlastnej triedy a objektu z nej.
+
 1. Upravte posledné cvičenie "Open-Lab-10.00" tak, že ho rozšírite o nasledujúce veci.
 2. V projekte vytvorte vlastnú triedu ku predgenerovanej triede Program v Program.cs, ktorá sa bude volať "Book".
 3. V triede Book vytvorte dve premenné / atribúty / dátové objekty / fieldy: "string title" bude verejná a "int pages" bude súkromná.
