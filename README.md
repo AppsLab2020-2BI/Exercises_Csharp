@@ -115,7 +115,7 @@ Advanced:
 # OOP exercisess:
 
 
-
+<br/>
 * [Open-Lab-10.00] (30 XP)
  
 Úvodne cvičenie na vytvorenie si GitHub repozitára.
@@ -125,7 +125,7 @@ Advanced:
 3. Uploadnite svoj projekt na GitHub - vytvorte repozitár a push-nite projekt.
 4. Synchronizujte a upravujte projekt toľkokrát, aby posledný Commit ukazoval len zmenu textu v Console.WriteLine() v Main().
 5. Pošlite link na repozitár Lab masterovi s číslom tejto úlohy.
-
+<br/>
 * [Open-Lab-10.01] (20 XP)
  
 Vytvorenie si vlastnej triedy a objektu z nej.
